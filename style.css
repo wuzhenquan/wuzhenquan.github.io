@@ -39,18 +39,20 @@ body {
 .links > a {
   color: #636b6f;
   margin: 0 0.5rem;
-  font-size: 0.8rem;
+  font-size: 1rem;
   letter-spacing: 0.1rem;
   text-decoration: none;
-  width: 4rem;
-  height: 4rem;
+  width: 6rem;
+  height: 6rem;
   display: inline-block;
 }
 .links .icon > svg {
-  width: 2rem;
-  height: 2rem;
+  width: 4rem;
+  height: 4rem;
+  margin-bottom: 0.3rem;
 }
 .m-b-md {
+  display: none;
   margin-bottom: 60px;
 }
 .title a img {
